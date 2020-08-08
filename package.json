@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://rajat-ds.github.io/gamersArena",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+   
   },
   "author": "",
   "license": "ISC",
